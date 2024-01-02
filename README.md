@@ -39,7 +39,7 @@ The project utilizes a comprehensive weather dataset ('weatherHistory.csv') with
 
 ## Results
 
-The model achieves an impressive accuracy of 99% on the test set, showcasing its robust predictive capabilities. A detailed confusion matrix is included to visualize the classification performance, illustrating the model's ability to accurately distinguish between rain or not.
+The model achieves an impressive accuracy of 99.4% on the test set, showcasing its robust predictive capabilities. A detailed confusion matrix is included to visualize the classification performance, illustrating the model's ability to accurately distinguish between rain or not.
 
 ## License
 This project is licensed under the MIT License.

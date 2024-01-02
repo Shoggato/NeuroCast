@@ -1,7 +1,7 @@
 # NeuroCast: Forecasting Precipitation with AI Insight
 ## Overview
 
-This repository contains code for building, training, and evaluating a neural network model aimed at predicting weather precipitation types (rain or not). The model leverages TensorFlow and Keras Tuner to achieve accurate predictions based on a diverse set of weather features.
+This repository contains code for building, training, and evaluating a neural network model aimed at predicting weather precipitation types (rain or not). The model leverages TensorFlow and Keras Tuner to achieve accurate predictions based on a diverse set of weather features.  This was really a proof-of-concept for another github project called WindyPredictAI.  I wanted to show that the data that we had for WindyPredictAI wasn't comprehensive enough for a deep neural network to learn patterns.  This project was a success in that it showed that with the proper data, deep neural networks can be trained to predict weather pattens.
 
 ## Dataset
 

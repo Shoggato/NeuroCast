@@ -23,11 +23,6 @@ The project utilizes a comprehensive weather dataset ('weatherHistory.csv') with
     jupyter notebook weather_prediction_nn.ipynb
     ```
 
-2. For hyperparameter tuning, run the `weather_prediction_tuning.ipynb` notebook using Keras Tuner.
-    ```bash
-    jupyter notebook weather_prediction_tuning.ipynb
-    ```
-
 3. The trained model will be saved as `weather_model_kt.H5`. To load and evaluate the best model, refer to the evaluation section in the notebook.
 
 

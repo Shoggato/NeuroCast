@@ -28,9 +28,7 @@ The project utilizes a comprehensive weather dataset ('weatherHistory.csv') with
 
 ## Structure
 * __weather_prediction_nn.ipynb:__ Jupyter notebook containing the main code for building, training, and evaluating the neural network model.
-* __weather_prediction_tuning.ipynb:__ Jupyter notebook for hyperparameter tuning using Keras Tuner.
 * __data/weatherHistory.csv:__ Dataset used for training and evaluation.
-* __requirements.txt:__ List of required Python packages.
 
 ## Results
 
